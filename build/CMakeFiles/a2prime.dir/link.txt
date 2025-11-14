@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/a2prime.dir/src/main.cpp.o CMakeFiles/a2prime.dir/src/prime.cpp.o -o a2prime 
