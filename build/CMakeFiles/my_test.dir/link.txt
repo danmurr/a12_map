@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/my_test.dir/tests/test.cpp.o CMakeFiles/my_test.dir/src/box_optimizer.cpp.o CMakeFiles/my_test.dir/src/cart_analysis.cpp.o CMakeFiles/my_test.dir/src/customer_loyalty.cpp.o CMakeFiles/my_test.dir/src/api_monitor.cpp.o -o my_test 
